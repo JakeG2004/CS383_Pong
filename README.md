@@ -15,7 +15,7 @@
 ## Compile the code
 Updating the code requires a new build. If you do not already have Unity installed, see the instructions below.
 1) Download and extract the full contents of this repo
-2) Open or download (Unity)[https://store.unity.com/download-nuo]
+2) Open or download [Unity](https://store.unity.com/download-nuo)
 3) Select the open file option in the top right corner
 4) Select the folder where the repo has been downloaded to
 5) The Unity editor should now open
