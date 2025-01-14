@@ -23,6 +23,6 @@ Updating the code requires a new build. If you do not already have Unity install
 7) Everything will automatically be compiled.
 
 ## Installing Unity
-1) Go to Unity's download page and install unity for your operating system
+1) Go to Unity's download page and install unity 2021.3.6f1 for your operating system
 2) Run the downloaded installer
 3) Proceed through the installer, selecting the desired additional components.
